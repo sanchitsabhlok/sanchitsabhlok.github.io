@@ -1,4 +1,60 @@
-title: Sanchit Sabhlok
-description: Text goes here
-show_downloads: True
-theme: jekyll-theme-minimal
+# site settings
+
+title: Sanchit Sabhlok Personal Website
+description: Work website
+taglong: Work Experience, Interests and Research
+tagshort: Work website
+url: https://sanchitsabhlok.github.io
+baseurl: ""
+permalink: pretty
+repo: https://github.com/sanchitsabhlok/sanchitsabhlok.github.io
+
+# author settings
+
+author: Sanchit Sabhlok
+  name: Sanchit Sabhlok
+  email: ssabhlok@ucsd.edu
+photo: /assets/jpg/photo.jpg
+
+# social media links
+
+social:
+  github: sanchitsabhlok
+  instagram: the_house_baby
+#  linkedin: username
+#  stackoverflow: 0000000/username
+#  twitter: username
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
