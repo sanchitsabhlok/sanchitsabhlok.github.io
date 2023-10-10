@@ -1,9 +1,9 @@
 # site settings
 
-title: Sanchit Sabhlok Personal Website
+title: Sanchit Sabhlok
 description: Personal Website
-taglong: CV and Research Interests Website
-tagshort: CV Site
+taglong: Personal Website
+tagshort: Personal Website
 url: https://sanchitsabhlok.github.io
 baseurl: ""
 permalink: pretty
