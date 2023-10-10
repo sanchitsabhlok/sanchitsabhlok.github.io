@@ -1,5 +1,5 @@
 # Personal Site
-This is my little goblin cave where I come to post about my silly little work tasks.
+This is my little goblin cave where I come to post about my silly little work tasks..
 
 ## Credits
 
