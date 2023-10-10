@@ -1,9 +1,9 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+title: Sanchit Sabhlok Personal Website
+description: Personal Website
+taglong: CV and Research Interests Website
+tagshort: CV Site
 url: https://sanchitsabhlok.github.io
 baseurl: ""
 permalink: pretty
