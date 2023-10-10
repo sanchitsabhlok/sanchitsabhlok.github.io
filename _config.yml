@@ -1,17 +1,18 @@
 # site settings
 
-title: Sanchit Sabhlok Personal Website
-description: Work website
-taglong: Work Experience, Interests and Research
-tagshort: Work website
-url: https://sanchitsabhlok.github.io
+title: cvless
+description: Jekyll theme for a beautiful online CV
+taglong: Jekyll theme for a beautiful online CV
+tagshort: Jekyll theme
+url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
-repo: https://github.com/sanchitsabhlok/sanchitsabhlok.github.io
+repo: https://github.com/username/username.github.io
 
 # author settings
 
-author: Sanchit Sabhlok
+
+author: 
   name: Sanchit Sabhlok
   email: ssabhlok@ucsd.edu
 photo: /assets/jpg/photo.jpg
