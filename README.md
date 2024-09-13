@@ -3,7 +3,7 @@ This is my little goblin cave where I come to post about my silly little work ta
 
 ## Credits
 
-The theme draws from the original (https://cvless.netlify.app/) which in and of itself draws in one way or another from the following projects:
+The theme draws from the original ([https://cvless.netlify.app/](https://piazzai.github.io/cvless/)) which in and of itself draws in one way or another from the following projects:
 
 -   [Bootstrap](https://getbootstrap.com/)
 -   [Hack](https://sourcefoundry.org/hack/)
