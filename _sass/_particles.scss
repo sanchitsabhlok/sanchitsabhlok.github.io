@@ -109,7 +109,7 @@
   float:none;
   margin: 0 auto;
   padding: 0;
-  display: block; /* Makes the list items display in a horizontal row */
+  display: inline-block; /* Makes the list items display in a horizontal row */
   text-align: center;
   justify-content: center;
 }
@@ -117,6 +117,7 @@
 .navbar li {
   margin: 0; /* Removes any additional spacing between list items */
   padding: 0;
+  display: inline-block;
 }
 
 .navbar a {
