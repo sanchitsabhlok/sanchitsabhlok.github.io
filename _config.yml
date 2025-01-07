@@ -9,9 +9,6 @@ baseurl: ""
 permalink: pretty
 repo: https://github.com/sanchitsabhlok/sanchitsabhlok.github.io
 
-header_pages:
-  - cv.md
-  - index.md
 
 # author settings
 
