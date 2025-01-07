@@ -101,6 +101,7 @@
 /* Navigation Bar Styling */
 
 .navbar {
+  display:flex;
   background-color: #333; /* Background color of the navbar */
   justify-content: center; /* Centers the <ul> inside the navbar */
   overflow: hidden; /* Prevents content from overflowing */
@@ -121,6 +122,7 @@
   margin: 0; /* Removes any additional spacing between list items */
   padding: 0;
   display: inline-block;
+  text-align:center;
 }
 
 .navbar a {
