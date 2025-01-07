@@ -113,7 +113,7 @@
   float:none;
   margin: 0;
   padding: 0;
-  display: inline-block; /* Makes the list items display in a horizontal row */
+  display: flex; /* Makes the list items display in a horizontal row */
   text-align: center;
   justify-content: center;
 }
