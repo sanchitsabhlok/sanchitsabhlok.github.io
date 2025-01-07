@@ -107,10 +107,11 @@
 .navbar ul {
   list-style-type: none; /* Removes default bullet points */
   float:none
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   display: block; /* Makes the list items display in a horizontal row */
   text-align: center;
+  justify-content: center;
 }
 
 .navbar li {
