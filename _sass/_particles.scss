@@ -99,6 +99,7 @@
 }
 
 /* Navigation Bar Styling */
+
 .navbar {
   background-color: #333; /* Background color of the navbar */
   overflow: hidden; /* Prevents content from overflowing */
@@ -107,7 +108,7 @@
 .navbar ul {
   list-style-type: none; /* Removes default bullet points */
   float:none;
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   display: inline-block; /* Makes the list items display in a horizontal row */
   text-align: center;
