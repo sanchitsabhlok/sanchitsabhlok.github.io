@@ -3,10 +3,16 @@ layout: cv
 title: CV
 ---
 
+# Background
+
+Integrated M.Sc. in Physics from UM-DAE Center for Excellence in Basic Sciences, 2017
+PhD in Physics with specialization in Astronomy, UC San Diego, 2024
+
 # Publications
 First Author:
 1. “Circumgalactic Environments around Distant Quasars 3C 9 and 4C 05.84” **Sabhlok, S.**; Wright, S. A.; Vayner, A.; Simonaitis-Boyd, S.; Murray, N.; Armus, L.; Cosens, M.; Wiley, J.; Kriek, M. ApJ 964 84 (2024).
 2. “A clear case for dust obscuration of lunar retroreflectors” **Sabhlok, S.**; Gonzales, D. P.; Battat, J. B. R.; Murphy, T W., Jr.; Colmenares, N. R. Icarus 417. doi:10.1016/j.icarus.2024.116113.
+3. “ Validating the On-axis Point Spread Function Reconstruction for Keck Adaptive Optics” **Sabhlok, S.**;  Wright, S. A. ;Lu, J. R. ; Terry, S. ; Wizinowich, P. L. ; Neichel, B. ; Kuznetsov, A.  Publications of the Astronomical Society of the Pacific 137. doi:10.1088/1538-3873/ae02c4
 
 Contributing Author:
 1. “Oxygen Abundance Throughout the Dwarf Starburst Galaxy IC 10”  Cosens, Maren; Wright, Shelley A.; Sandstrom, Karin; Armus, Lee; Murray, Norman; Runco, Jordan N.; **Sabhlok, Sanchit**; Wiley, James 2024, AJ, 168, 250. doi:10.3847/1538-3881/ad7f3c
