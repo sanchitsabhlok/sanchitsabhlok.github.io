@@ -23,7 +23,5 @@ Contributing Author:
 6. “Keck All sky Precision Adaptive optics program overview”. Wizinowich, P.; Lu, J. R.; Cetre, S.; Chin, J.; Correia, C.; Delorme, J. -R.; Gers, L.; Lilley, S.; Lyke, J.; Marin, E.; Ragland, S.; Richards, P.; Surendran, A.; Wetherell, E.; Chen, C. -F.; Chu, D.; Do, T.; Fassnacht, C.; Freeman, M.; Gautam, A.; Ghez, A.; Hunter, L.; Jones, T.; Liu, M. C.; Mawet, D.; Max, C.; Morris, M.; Phillips, M.; Ruffio, J. -B.; Rundquist, N. -E.; **Sabhlok, S.**; Terry, S.; Treu, T.; Wright, S. Proc. SPIE 12185 (2022).
 7. “Kinematics and Feedback in H II Regions in the Dwarf Starburst Galaxy IC 10”. Cosens, M.; Wright, S. A.; Murray, N.; Armus, L.; Sandstrom, K.; Do, T.; Larson, K.; Martinez, G.; **Sabhlok, S.**; Vayner, A; Wiley, J. ApJ 929, 74 (2022).
 
-# Curriculum Vitæ
-
 {% include contact.html %}
 
