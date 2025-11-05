@@ -101,28 +101,34 @@
 /* Navigation Bar Styling */
 
 .navbar {
-  display:flex;
+  display: flex;
   background-color: #333; /* Background color of the navbar */
   justify-content: center; /* Centers the <ul> inside the navbar */
-  overflow: hidden; /* Prevents content from overflowing */
+  overflow-x: auto; /* Enables horizontal scrolling */
+  overflow-y: hidden; /* Prevents vertical scrollbars */
+  white-space: nowrap; /* Keeps items on a single line */
   width: 100%;
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on mobile */
+  scroll-behavior: smooth; /* Smooth scroll behavior */
 }
 
 .navbar ul {
   list-style-type: none; /* Removes default bullet points */
-  float:none;
+  float: none;
   margin: 0;
   padding: 0;
   display: flex; /* Makes the list items display in a horizontal row */
   text-align: center;
   justify-content: center;
+  flex-wrap: nowrap; /* Prevents wrapping */
 }
 
 .navbar li {
   margin: 0; /* Removes any additional spacing between list items */
   padding: 0;
   display: inline-block;
-  text-align:center;
+  text-align: center;
+  flex: 0 0 auto; /* Prevents shrinking so all items keep full width */
 }
 
 .navbar a {
@@ -137,3 +143,14 @@
   background-color: #ddd; /* Background color on hover */
   color: black; /* Text color on hover */
 }
+
+/* Optional: scrollbar styling for aesthetic touch */
+.navbar::-webkit-scrollbar {
+  height: 6px;
+}
+
+.navbar::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 3px;
+}
+
